@@ -1,0 +1,10 @@
+{
+	"name"			: "SharpBlog",
+	"version"		: "0.0.1",
+	"description"	: "Blog colaborativo para disseminar o conhecimento das linguagens relacionadas ao .NET Framework",
+	"main"			: "app.js",
+	"dependencies"	: {
+		"mongoose"	: "latest",
+		"express"	: "latest"
+	}
+}
